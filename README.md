@@ -2,7 +2,7 @@
 
 ### Alex Eduardo dos Santos
 
-Foi feita a análise sobre a contaminação do vírus COVID-19 no ano de 2020 pelo brasil e feito a previsão para o mês 01/2021
+Foi feita a análise sobre a contaminação do vírus COVID-19 no ano de 2020 no Brasil e feito a previsão para o mês 01/2021
 
 ### Base de dados:
 
